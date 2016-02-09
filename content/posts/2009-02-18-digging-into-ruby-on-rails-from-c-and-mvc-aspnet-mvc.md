@@ -1,4 +1,5 @@
 ---
+redirect_to: https://hackhands.com/learning-ruby-rails-c-asp-net-mvc/
 title: 'Digging into Ruby on Rails from C# and .MVC (Asp.Net MVC)'
 author: Michael
 type: post
