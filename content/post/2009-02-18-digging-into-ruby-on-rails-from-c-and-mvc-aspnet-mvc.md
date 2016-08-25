@@ -63,6 +63,13 @@ The bottom line is, check out Rails.  The best way to get started is with [the 
 
 [<img src="http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http%3a%2f%2fwww.michaelhamrah.com%2fblog%2findex.php%2f2009%2f02%2fdigging-into-ruby-on-rails-from-c-and-mvc-aspnet-mvc%2f&#038;bgcolor=000099" border="0" alt="kick it on DotNetKicks.com" />][11]
 
+canonical url:  <link href="https://hackhands.com/learning-ruby-rails-c-asp-net-mvc/" rel="canonical">
+<pre>
+<script>
+    window.location.replace(\"https://hackhands.com/learning-ruby-rails-c-asp-net-mvc/\");
+</script>
+</pre>
+
  [1]: http://rubyonrails.org/merb
  [2]: http://en.wikipedia.org/wiki/Dynamic_programming_language
  [3]: http://ironpython-urls.blogspot.com/2008/12/c-becomes-dynamic-language.html
